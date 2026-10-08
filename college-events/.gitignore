@@ -1,0 +1,7 @@
+.tools/
+%SystemDrive%/
+.superpowers/
+backend/.env
+backend/.venv/
+backend/uploads/*
+!backend/uploads/.gitkeep
